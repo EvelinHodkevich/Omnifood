@@ -113,5 +113,8 @@
     .contact-form { width: 100%; }
 
     .logo { height: 100px; }
-    .main-nav { float: left; }
+    .main-nav { 
+        float: left;
+        padding: 0;
+    }
 }
