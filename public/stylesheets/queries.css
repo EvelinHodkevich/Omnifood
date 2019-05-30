@@ -112,8 +112,6 @@
     section { padding: 25px 0; }
     .contact-form { width: 100%; }
 
-    .logo { 
-        height: 100px;
-        float: left;
-    }
+    .logo { height: 100px; }
+    .main-nav { float: left; }
 }
