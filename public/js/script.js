@@ -58,7 +58,7 @@ $(document).ready(function(){
         var nav = $('.js--main-nav');
         var icon = $('.js--nav-icon ion-icon');
 
-        nav.slideToggle(200);
+        nav.toggleClass('main-nav--shown');
     });
 
     // Button to-start

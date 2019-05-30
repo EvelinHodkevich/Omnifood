@@ -221,6 +221,10 @@ header{
     margin-top: 55px;
 }
 
+header .main-nav--shown {
+    display: block;
+}
+
 .nav-item{
     display: inline-block;
     margin-left: 40px;
